@@ -1,0 +1,20 @@
+{
+    "Author": "GordonB007",
+    "ContentSize": 5530,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/get-ssl-certificate-and-store-in-keyvault/master/Get-SSLCertificateAndAddToKeyvault.ps1",
+    "DownloadCount": 1379,
+    "Id": "Get-SSL-Certificate-and-93a8b94e",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 121,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-6-4T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Using Let's Encrpyt as the (free) Certificate Authority, obtains a SSL Certificate for a specific subdomain... EG.\u00a0 westeurope4.azdemo.co.uk or for a wildcard... EG. *.azdemo.co.ukThe Certificate is stored in Keyvault where it can then be leveraged with other scripts to assign to",
+    "Title": "Get SSL Certificate and store in Keyvault",
+    "UpdatedDate": "2018-8-1T00:00:00",
+    "Url": "https://github.com/azureautomation/get-ssl-certificate-and-store-in-keyvault",
+    "UserTags": "Key Vault, SSL Certificates"
+}
